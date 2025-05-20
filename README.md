@@ -13,8 +13,8 @@
   <a href="mailto:johansendup@gmail.com">
     <img src="https://img.shields.io/badge/Email-DM%20me-red" alt="Email Badge"/>
   </a>
-  <a href="https://johan.vercel.app" target="_blank">
-    <img src="https://img.shields.io/badge/Website-nugra.online-blue" alt="Website"/>
+  <a href="https://johanz.vercel.app" target="_blank">
+    <img src="https://img.shields.io/badge/Website-johanz.vercel.app-blue" alt="Website"/>
   </a>
   <img src="https://komarev.com/ghpvc/?username=johan&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views"/>
   <img src="https://img.shields.io/badge/License-MIT-yellow.svg" alt="MIT License"/>
