@@ -69,8 +69,8 @@ Hi its **Johan Maulana**, mahasiswa Teknik Komputer di **UTDI**. Saya sangat ter
 > 📺 Saya berbagi video tentang tutorial coding, eksperimen IoT, dan teknologi lainnya.
 
 <p align="center">
-  <a href="https://www.youtube.com/@nugra21" target="_blank">
-    <img src="https://img.shields.io/badge/Subscribe--nugra21-red?style=for-the-badge&logo=youtube" />
+  <a href="https://www.youtube.com/@Johan" target="_blank">
+    <img src="https://img.shields.io/badge/Subscribe--Johan-red?style=for-the-badge&logo=youtube" />
   </a>
 </p>
 
@@ -78,8 +78,8 @@ Hi its **Johan Maulana**, mahasiswa Teknik Komputer di **UTDI**. Saya sangat ter
 
 ## 📫 Kontak Saya
 
-- 🌍 Website: [nugra.online](https://nugra.online)
-- 📧 Email: [nugra315@gmail.com](mailto:nugra315@gmail.com)
+- 🌍 Website: [nugra.online](https://--)
+- 📧 Email: [nugra315@gmail.com](mailto:johansendup@gmail.com)
 - 💼 LinkedIn: *(segera tersedia)*
 
 ---
