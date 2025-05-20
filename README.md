@@ -1,9 +1,9 @@
 <!-- Banner atau Header -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Halo,+Saya+Johan!;Programmer+%7C+IoT+Enthusiast+%7C+Tech+Creator;&center=true&width=500&height=45">
+  <img src="https://readme-typing-svg.demolab.com/?lines=Halo,+Saya+Johan!;Programmer+%7C+CyberSecurity+Learner+%7C+Technology Enthusiast+;&center=true&width=500&height=45">
 </p>                                                                         
 
-<h1 align="center">Hi there, Saya Johan</h1>
+<h1 align="center">Hi there, its Johan</h1>
 <h3 align="center">Student who interest in technology 🚀</h3>
 
 <p align="center">
