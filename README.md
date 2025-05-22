@@ -1,6 +1,6 @@
 <!-- Banner/Header -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Hi,+I’m+Johan+Maulana!;Aspiring+Cybersecurity+Engineer+%7C+Fullstack+Developer+%7C+Tech+Explorer;&center=true&width=500&height=45" />
+  <img src="https://readme-typing-svg.demolab.com/?lines=Hi,+I’m+Johan+Maulana!;Aspiring+Cybersecurity+Engineer,Fullstack+Developer,Tech+Explorer&center=true&width=500&height=45" />
 </p>
 
 <h1 align="center">👋 Welcome to My GitHub</h1>
