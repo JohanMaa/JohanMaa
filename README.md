@@ -1,5 +1,7 @@
 <!-- Banner/Header -->
-<img src="https://github-readme-typing-svg.herokuapp.com?lines=Hi,+I’m+Johan+Maulana!;Aspiring+Cybersecurity+Engineer;Fullstack+Developer;Tech+Explorer&center=true&width=500&height=45" />
+<p align="center">
+  <img src="https://img.shields.io/badge/Hi,_I’m_Johan_Maulana!-Cybersecurity_&_Tech-blue?style=for-the-badge" />
+</p>
 
 
 <h1 align="center">👋 Welcome to My GitHub</h1>
