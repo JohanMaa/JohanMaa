@@ -1,7 +1,6 @@
 <!-- Banner/Header -->
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Hi,+I’m+Johan+Maulana!;Aspiring+Cybersecurity+Engineer,Fullstack+Developer,Tech+Explorer&center=true&width=500&height=45" />
-</p>
+<img src="https://github-readme-typing-svg.herokuapp.com?lines=Hi,+I’m+Johan+Maulana!;Aspiring+Cybersecurity+Engineer;Fullstack+Developer;Tech+Explorer&center=true&width=500&height=45" />
+
 
 <h1 align="center">👋 Welcome to My GitHub</h1>
 <h3 align="center">Coding, Cyber, and Creativity ⚙️</h3>
