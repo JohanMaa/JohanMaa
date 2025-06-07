@@ -8,7 +8,7 @@
 <h3 align="center">Coding, Cyber, and Creativity ⚙️</h3>
 
 <p align="center">
-  <a href="https://johanz.vercel.app" target="_blank">
+  <a href="https://hannz.my.id" target="_blank">
     <img src="https://img.shields.io/badge/Website-johanz.vercel.app-blue?style=flat-square&logo=vercel" />
   </a>
   <a href="mailto:johansendup@gmail.com">
