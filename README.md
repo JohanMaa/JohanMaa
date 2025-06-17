@@ -3,7 +3,6 @@
   <img src="https://img.shields.io/badge/Hi,_I’m_Johan_Maulana!-Cybersecurity_&_Tech-blue?style=for-the-badge" />
 </p>
 
-
 <h1 align="center">👋 Welcome to My GitHub</h1>
 <h3 align="center">Coding, Cyber, and Creativity ⚙️</h3>
 
