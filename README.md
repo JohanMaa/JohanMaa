@@ -31,14 +31,7 @@ Saya suka membangun proyek dari nol, belajar lewat eksperimen, dan berbagi prose
 
 ---
 
-## 🔭 Proyek & Fokus Saat Ini
 
-- 🚀 Membangun **dashboard monitoring IoT** berbasis Flutter dan MQTT
-- 🧠 Mendalami dunia **penetration testing dan OSINT**
-- 🖥️ Membuat personal website sebagai portfolio interaktif
-- 📽️ Produksi konten **teknologi & coding** di YouTube *(soon)*
-
----
 
 ## 🛠️ Tools & Teknologi yang Saya Gunakan
 
