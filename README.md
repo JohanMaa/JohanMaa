@@ -21,7 +21,7 @@
 <div align="center">
   <h4>💻 Web Development</h4>
   
-  [![Web Portfolio](https://github-readme-stats.vercel.app/api/pin/?username=JohanMaa&repo=portfolio-web&theme=radical&border_radius=10&hide_border=true)](https://github.com/JohanMaa/Portfolio-Website.git)
+  [![Web Portfolio](https://github-readme-stats.vercel.app/api/pin/?username=JohanMaa&repo=Portfolio-Website&theme=radical&border_radius=10&hide_border=true)](https://github.com/JohanMaa/Portfolio-Website.git)
   [![E-Commerce App](https://github-readme-stats.vercel.app/api/pin/?username=johanmaulana&repo=ecommerce-web&theme=radical&border_radius=10&hide_border=true)](https://github.com/johanmaulana/ecommerce-web)
   [![Blog Platform](https://github-readme-stats.vercel.app/api/pin/?username=johanmaulana&repo=blog-platform&theme=radical&border_radius=10&hide_border=true)](https://github.com/johanmaulana/blog-platform)
   
