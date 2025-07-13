@@ -33,9 +33,9 @@
 
   <h4>🔌 CyberSecurity Projects on My Website</h4>
 
-[![Visit Password Cracker](https://img.shields.io/badge/Password_Cracker-Visit%20Project-blueviolet?style=for-the-badge)](https://www.hannz.my.id/projects/password-cracker)
-
-[![Visit Environment Monitor](https://img.shields.io/badge/Environment_Monitor-Visit%20Project-blue?style=for-the-badge)](https://www.hannz.my.id/projects/environment-monitor)
+<a href="https://www.hannz.my.id/projects/password-cracker" target="_blank">
+  <img src="https://www.hannz.my.id/assets/screenshots/password-cracker.png" width="300px" alt="Password Cracker Project" />
+</a>
 
 
 </div>
