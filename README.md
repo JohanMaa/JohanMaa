@@ -33,10 +33,10 @@
 
   <h4>🔌 CyberSecurity Projects on My Website</h4>
 
-<a href="https://www.hannz.my.id/projects/password-cracker" target="_blank">
-  <img src="https://www.hannz.my.id/assets/screenshots/password-cracker.png" width="300px" alt="Password Cracker Project" />
-</a>
+  [![Password Cracker](https://github-readme-stats.vercel.app/api/pin/?username=JohanMaa&repo=Password-Cracker&theme=radical&border_radius=10&hide_border=true)](https://github.com/JohanMaa/Password-Cracker.git)
+[![Password Cracker GitHub](https://github-readme-stats.vercel.app/api/pin/?username=JohanMaa&repo=Password-Cracker&theme=radical&border_radius=10&hide_border=true)](https://github.com/JohanMaa/Password-Cracker)
 
+[🔗 View Password Cracker on Website](https://www.hannz.my.id/projects/password-cracker)
 
 </div>
 
