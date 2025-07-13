@@ -114,10 +114,10 @@
 <h3 align="center">📫 Let's Connect</h3>
 
 <p align="center">
-  <a href="mailto:johanmaulana@email.com">
+  <a href="mailto:johansendup@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://www.linkedin.com/in/johanmaulana/">
+  <a href="https://www.linkedin.com/in/johan-maulana-26b051305/"> 
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://www.hannz.my.id/">
