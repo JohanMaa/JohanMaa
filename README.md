@@ -35,7 +35,7 @@
 
   [![Password Cracker](https://github-readme-stats.vercel.app/api/pin/?username=JohanMaa&repo=Password-Cracker&theme=radical&border_radius=10&hide_border=true)](https://github.com/JohanMaa/Password-Cracker.git)
 
-[🔗 View Other CyberSecurity Project on Website](https://www.hannz.my.id/projects)
+[🔗 View Other CyberSecurity Project on Website](https://www.hannz.my.id/)
 
 </div>
 
