@@ -1,43 +1,51 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Johan%20Maulana&fontSize=40&fontAlignY=35&animation=twinkling" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Johan%20Maulana&fontSize=40&fontAlignY=35&animation=twinkling" width="100%" />
 </div>
 
 <h3 align="center">💻 Teknik Komputer | Universitas Teknologi Digital Indonesia 🎓</h3>
 
+<p align="center">
+  I'm a Computer Engineering student passionate about Web Development, Mobile App Development, and Cybersecurity. I love building things that matter and solving real-world problems.
+</p>
+
 <div align="center">
-  
-  ![Profile Views](https://komarev.com/ghpvc/?username=johanmaulana&color=blueviolet)
-  [![GitHub followers](https://img.shields.io/github/followers/JohanMaa?style=social)](https://github.com/JohanMaa)
-  
+  <img src="https://komarev.com/ghpvc/?username=JohanMaa&color=blueviolet" />
+  <a href="https://github.com/JohanMaa">
+    <img src="https://img.shields.io/github/followers/JohanMaa?style=social" />
+  </a>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=johanmaulana&show_icons=true&theme=radical&border_radius=10&hide_border=true" height="150"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=johanmaulana&theme=radical&border_radius=10&hide_border=true" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=JohanMaa&show_icons=true&theme=radical&border_radius=10&hide_border=true" height="150"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=JohanMaa&theme=radical&border_radius=10&hide_border=true" height="150"/>
 </div>
+
+---
 
 <h3 align="center">🚀 Projects</h3>
 
 <div align="center">
+
   <h4>💻 Web Development</h4>
-  
-  [![Web Portfolio](https://github-readme-stats.vercel.app/api/pin/?username=JohanMaa&repo=Portfolio-Website&theme=radical&border_radius=10&hide_border=true)](https://github.com/JohanMaa/Portfolio-Website.git)
-  [![E-Commerce App](https://github-readme-stats.vercel.app/api/pin/?username=JohanMaa&repo=-Website-Sewa-Alat-Camping&theme=radical&border_radius=10&hide_border=true)](https://github.com/JohanMaa/-Website-Sewa-Alat-Camping.git)
-  
+
+  [![Web Portfolio](https://github-readme-stats.vercel.app/api/pin/?username=JohanMaa&repo=Portfolio-Website&theme=radical&border_radius=10&hide_border=true)](https://github.com/JohanMaa/Portfolio-Website)
+  [![E-Commerce App](https://github-readme-stats.vercel.app/api/pin/?username=JohanMaa&repo=Website-Sewa-Alat-Camping&theme=radical&border_radius=10&hide_border=true)](https://github.com/JohanMaa/Website-Sewa-Alat-Camping)
+
   <h4>📱 Mobile Development</h4>
-  
-[![Dashboard Monitoring App](https://github-readme-stats.vercel.app/api/pin/?username=JohanMaa&repo=Monitoring-Kolam-Ikan&theme=radical&border_radius=10&hide_border=true)](https://github.com/JohanMaa/Monitoring-Kolam-Ikan)
-[![Planner App](https://github-readme-stats.vercel.app/api/pin/?username=JohanMaa&repo=Aplikasi_Planner&theme=radical&border_radius=10&hide_border=true)](https://github.com/JohanMaa/Aplikasi_Planner)
-[![Eco Trash](https://github-readme-stats.vercel.app/api/pin/?username=JohanMaa&repo=Mbanking_Sampah&theme=radical&border_radius=10&hide_border=true)](https://github.com/JohanMaa/Mbanking_Sampah)
 
+  [![Dashboard Monitoring App](https://github-readme-stats.vercel.app/api/pin/?username=JohanMaa&repo=Monitoring-Kolam-Ikan&theme=radical&border_radius=10&hide_border=true)](https://github.com/JohanMaa/Monitoring-Kolam-Ikan)
+  [![Planner App](https://github-readme-stats.vercel.app/api/pin/?username=JohanMaa&repo=Aplikasi_Planner&theme=radical&border_radius=10&hide_border=true)](https://github.com/JohanMaa/Aplikasi_Planner)
+  [![Eco Trash](https://github-readme-stats.vercel.app/api/pin/?username=JohanMaa&repo=Mbanking_Sampah&theme=radical&border_radius=10&hide_border=true)](https://github.com/JohanMaa/Mbanking_Sampah)
 
-  <h4>🔌 CyberSecurity Projects on My Website</h4>
+  <h4>🔌 CyberSecurity Projects</h4>
 
-  [![Password Cracker](https://github-readme-stats.vercel.app/api/pin/?username=JohanMaa&repo=Password-Cracker&theme=radical&border_radius=10&hide_border=true)](https://github.com/JohanMaa/Password-Cracker.git)
+  [![Password Cracker](https://github-readme-stats.vercel.app/api/pin/?username=JohanMaa&repo=Password-Cracker&theme=radical&border_radius=10&hide_border=true)](https://github.com/JohanMaa/Password-Cracker)
 
-[🔗 View Other CyberSecurity Project on Website](https://www.hannz.my.id/)
+  🔗 [View Other CyberSecurity Projects on Website](https://www.hannz.my.id/)
 
 </div>
+
+---
 
 <h3 align="center">💡 Skills</h3>
 
@@ -68,28 +76,23 @@
   <tr>
     <td valign="top">
       <h4 align="center">Cybersecurity</h4>
-        <div align="center">
-          <!-- Operating Systems -->
-          <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white" />
-          <img src="https://img.shields.io/badge/Parrot_OS-1f2c3a?style=for-the-badge&logo=parrot-security&logoColor=05c7f2" />
-          <!-- Pentesting & Network Tools -->
-          <img src="https://img.shields.io/badge/Nmap-%2300f.svg?style=for-the-badge&logo=nmap&logoColor=white" />
-          <img src="https://img.shields.io/badge/Wireshark-%231679A7.svg?style=for-the-badge&logo=wireshark&logoColor=white" />
-          <img src="https://img.shields.io/badge/Burp_Suite-%23FF6F00.svg?style=for-the-badge&logo=burp-suite&logoColor=white" />
-          <img src="https://img.shields.io/badge/Metasploit-005377?style=for-the-badge&logo=metasploit&logoColor=white" />
-          <img src="https://img.shields.io/badge/SQLMap-000000?style=for-the-badge&logo=sqlite&logoColor=white" />
-          <img src="https://img.shields.io/badge/Aircrack--ng-000000?style=for-the-badge&logo=gnu&logoColor=white" />
-          <!-- SIEM & Forensics -->
-          <img src="https://img.shields.io/badge/Wazuh-7E5BEF?style=for-the-badge&logo=wazuh&logoColor=white" />
-          <img src="https://img.shields.io/badge/Autopsy-222222?style=for-the-badge&logo=autopsy&logoColor=white" />
-          <!-- Scripting & Automation -->
-          <img src="https://img.shields.io/badge/Python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white" />
-          <img src="https://img.shields.io/badge/Bash-121011?style=for-the-badge&logo=gnubash&logoColor=white" />
-          <!-- Capture The Flag & Practice Platforms -->
-          <img src="https://img.shields.io/badge/TryHackMe-%23212C42.svg?style=for-the-badge&logo=tryhackme&logoColor=white" />
-          <img src="https://img.shields.io/badge/Hack_The_Box-111927?style=for-the-badge&logo=hackthebox&logoColor=green" />
-          <img src="https://img.shields.io/badge/OverTheWire-%23f60.svg?style=for-the-badge&logo=archlinux&logoColor=white" />
-        </div>
+      <div align="center">
+        <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white" />
+        <img src="https://img.shields.io/badge/Parrot_OS-1f2c3a?style=for-the-badge&logo=parrot-security&logoColor=05c7f2" />
+        <img src="https://img.shields.io/badge/Nmap-%2300f.svg?style=for-the-badge&logo=nmap&logoColor=white" />
+        <img src="https://img.shields.io/badge/Wireshark-%231679A7.svg?style=for-the-badge&logo=wireshark&logoColor=white" />
+        <img src="https://img.shields.io/badge/Burp_Suite-%23FF6F00.svg?style=for-the-badge&logo=burp-suite&logoColor=white" />
+        <img src="https://img.shields.io/badge/Metasploit-005377?style=for-the-badge&logo=metasploit&logoColor=white" />
+        <img src="https://img.shields.io/badge/SQLMap-000000?style=for-the-badge&logo=sqlite&logoColor=white" />
+        <img src="https://img.shields.io/badge/Aircrack--ng-000000?style=for-the-badge&logo=gnu&logoColor=white" />
+        <img src="https://img.shields.io/badge/Wazuh-7E5BEF?style=for-the-badge&logo=wazuh&logoColor=white" />
+        <img src="https://img.shields.io/badge/Autopsy-222222?style=for-the-badge&logo=autopsy&logoColor=white" />
+        <img src="https://img.shields.io/badge/Python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white" />
+        <img src="https://img.shields.io/badge/Bash-121011?style=for-the-badge&logo=gnubash&logoColor=white" />
+        <img src="https://img.shields.io/badge/TryHackMe-%23212C42.svg?style=for-the-badge&logo=tryhackme&logoColor=white" />
+        <img src="https://img.shields.io/badge/Hack_The_Box-111927?style=for-the-badge&logo=hackthebox&logoColor=green" />
+        <img src="https://img.shields.io/badge/OverTheWire-%23f60.svg?style=for-the-badge&logo=archlinux&logoColor=white" />
+      </div>
     </td>
   </tr>
   <tr>
@@ -105,6 +108,22 @@
     </td>
   </tr>
 </table>
+
+---
+
+<h3 align="center">📫 Let's Connect</h3>
+
+<p align="center">
+  <a href="mailto:johanmaulana@email.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/johanmaulana/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://www.hannz.my.id/">
+    <img src="https://img.shields.io/badge/Website-hannz.my.id-blue?style=for-the-badge&logo=githubpages&logoColor=white" />
+  </a>
+</p>
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" width="100%"/>
