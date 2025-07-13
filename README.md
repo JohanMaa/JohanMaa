@@ -67,10 +67,15 @@
     </td>
     <td valign="top">
       <h4 align="center">Mobile Development</h4>
-      <div align="center">
-        <img src="https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white" />
-        <img src="https://img.shields.io/badge/Dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white" />
-      </div>
+      <h4 align="center">Mobile Development</h4>
+        <div align="center">
+          <img src="https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white" />
+          <img src="https://img.shields.io/badge/Dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white" />
+          <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=white" />
+          <img src="https://img.shields.io/badge/Provider-0C7CD5?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMjQiIGhlaWdodD0iMjQiLz4=&logoColor=white" />
+          <img src="https://img.shields.io/badge/Hive-FFC107?style=for-the-badge&logo=hive&logoColor=black" />
+          <img src="https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white" />
+        </div>
     </td>
   </tr>
   <tr>
