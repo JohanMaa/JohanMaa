@@ -33,8 +33,10 @@
 
   <h4>🔌 CyberSecurity Projects on My Website</h4>
 
-- 🔐 [Password Cracker Project on Website](https://www.hannz.my.id/projects/password-cracker)
-- 🌡️ [Environment Monitor Project on Website](https://www.hannz.my.id/projects)
+[![Visit Password Cracker](https://img.shields.io/badge/Password_Cracker-Visit%20Project-blueviolet?style=for-the-badge)](https://www.hannz.my.id/projects/password-cracker)
+
+[![Visit Environment Monitor](https://img.shields.io/badge/Environment_Monitor-Visit%20Project-blue?style=for-the-badge)](https://www.hannz.my.id/projects/environment-monitor)
+
 
 </div>
 
