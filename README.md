@@ -34,9 +34,8 @@
   <h4>🔌 CyberSecurity Projects on My Website</h4>
 
   [![Password Cracker](https://github-readme-stats.vercel.app/api/pin/?username=JohanMaa&repo=Password-Cracker&theme=radical&border_radius=10&hide_border=true)](https://github.com/JohanMaa/Password-Cracker.git)
-[![Password Cracker GitHub](https://github-readme-stats.vercel.app/api/pin/?username=JohanMaa&repo=Password-Cracker&theme=radical&border_radius=10&hide_border=true)](https://github.com/JohanMaa/Password-Cracker)
 
-[🔗 View Password Cracker on Website](https://www.hannz.my.id/projects/password-cracker)
+[🔗 View Other CyberSecurity Project on Website](https://www.hannz.my.id/projects)
 
 </div>
 
