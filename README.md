@@ -67,21 +67,34 @@
   </tr>
   <tr>
     <td valign="top">
-      <h4 align="center">IoT & Embedded</h4>
-      <div align="center">
-        <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white" />
-        <img src="https://img.shields.io/badge/ESP32-%23000000.svg?style=for-the-badge&logo=espressif&logoColor=white" />
-        <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
-      </div>
-    </td>
-    <td valign="top">
       <h4 align="center">Cybersecurity</h4>
-      <div align="center">
-        <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white" />
-        <img src="https://img.shields.io/badge/Wireshark-%231679A7.svg?style=for-the-badge&logo=wireshark&logoColor=white" />
-        <img src="https://img.shields.io/badge/Burp_Suite-%23FF6F00.svg?style=for-the-badge&logo=security&logoColor=white" />
-        <img src="https://img.shields.io/badge/Nmap-%2300f.svg?style=for-the-badge&logo=nmap&logoColor=white" />
-      </div>
+        <div align="center">
+          <!-- Operating Systems -->
+          <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white" />
+          <img src="https://img.shields.io/badge/Parrot_OS-1f2c3a?style=for-the-badge&logo=parrot-security&logoColor=05c7f2" />
+        
+          <!-- Pentesting & Network Tools -->
+          <img src="https://img.shields.io/badge/Nmap-%2300f.svg?style=for-the-badge&logo=nmap&logoColor=white" />
+          <img src="https://img.shields.io/badge/Wireshark-%231679A7.svg?style=for-the-badge&logo=wireshark&logoColor=white" />
+          <img src="https://img.shields.io/badge/Burp_Suite-%23FF6F00.svg?style=for-the-badge&logo=burp-suite&logoColor=white" />
+          <img src="https://img.shields.io/badge/Metasploit-005377?style=for-the-badge&logo=metasploit&logoColor=white" />
+          <img src="https://img.shields.io/badge/SQLMap-000000?style=for-the-badge&logo=sqlite&logoColor=white" />
+          <img src="https://img.shields.io/badge/Aircrack--ng-000000?style=for-the-badge&logo=gnu&logoColor=white" />
+        
+          <!-- SIEM & Forensics -->
+          <img src="https://img.shields.io/badge/Wazuh-7E5BEF?style=for-the-badge&logo=wazuh&logoColor=white" />
+          <img src="https://img.shields.io/badge/Autopsy-222222?style=for-the-badge&logo=autopsy&logoColor=white" />
+        
+          <!-- Scripting & Automation -->
+          <img src="https://img.shields.io/badge/Python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white" />
+          <img src="https://img.shields.io/badge/Bash-121011?style=for-the-badge&logo=gnubash&logoColor=white" />
+          
+          <!-- Capture The Flag & Practice Platforms -->
+          <img src="https://img.shields.io/badge/TryHackMe-%23212C42.svg?style=for-the-badge&logo=tryhackme&logoColor=white" />
+          <img src="https://img.shields.io/badge/Hack_The_Box-111927?style=for-the-badge&logo=hackthebox&logoColor=green" />
+          <img src="https://img.shields.io/badge/OverTheWire-%23f60.svg?style=for-the-badge&logo=archlinux&logoColor=white" />
+        </div>
+
     </td>
   </tr>
   <tr>
