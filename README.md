@@ -26,9 +26,10 @@
   
   <h4>📱 Mobile Development</h4>
   
-  [![Task Manager App](https://github-readme-stats.vercel.app/api/pin/?username=johanmaulana&repo=task-manager-flutter&theme=radical&border_radius=10&hide_border=true)](https://github.com/johanmaulana/task-manager-flutter)
-  [![Health Tracker](https://github-readme-stats.vercel.app/api/pin/?username=johanmaulana&repo=health-tracker-app&theme=radical&border_radius=10&hide_border=true)](https://github.com/johanmaulana/health-tracker-app)
-  
+  [![Dashboard Monitoring App](https://github-readme-stats.vercel.app/api/pin/?username=JohanMaa&repo=[Monitoring-Kolam-Ikan]&theme=radical&border_radius=10&hide_border=true)](https://github.com/JohanMaa/Monitoring-Kolam-Ikan.git)
+  [![Planner App](https://github-readme-stats.vercel.app/api/pin/?username=JohanMaa&repo=[Aplikasi_Planner]&theme=radical&border_radius=10&hide_border=true)](https://github.com/JohanMaa/Aplikasi_Planner.git)
+[![Eco Trash](https://github-readme-stats.vercel.app/api/pin/?username=JohanMaa&repo=[Mbanking_Sampah]&theme=radical&border_radius=10&hide_border=true)](https://github.com/JohanMaa/Mbanking_Sampah.git)
+
   <h4>🔌 IoT</h4>
   
   [![Smart Home IoT](https://github-readme-stats.vercel.app/api/pin/?username=johanmaulana&repo=smart-home-iot&theme=radical&border_radius=10&hide_border=true)](https://github.com/johanmaulana/smart-home-iot)
