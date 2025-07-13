@@ -6,7 +6,7 @@
 
 <div align="center">
   
-  ![Profile Views](https://komarev.com/ghpvc/?username=JohanMaa&color=blueviolet)
+  ![Profile Views](https://komarev.com/ghpvc/?username=johanmaulana&color=blueviolet)
   [![GitHub followers](https://img.shields.io/github/followers/johanmaulana?style=social)](https://github.com/JohanMaa)
   
 </div>
