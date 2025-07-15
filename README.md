@@ -105,10 +105,14 @@
       <h4 align="center">Tools</h4>
       <div align="center">
         <img src="https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" />
+        <img src="https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" />
+        <img src="https://img.shields.io/badge/GitHub_Desktop-FFFFFF?style=for-the-badge&logo=github&logoColor=black" />
         <img src="https://img.shields.io/badge/Visual_Studio_Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
         <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
         <img src="https://img.shields.io/badge/Figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" />
         <img src="https://img.shields.io/badge/Docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" />
+        <img src="https://img.shields.io/badge/VMware-607078?style=for-the-badge&logo=vmware&logoColor=white" />
+        <img src="https://img.shields.io/badge/Terminal-000000?style=for-the-badge&logo=gnubash&logoColor=white" />
       </div>
     </td>
   </tr>
