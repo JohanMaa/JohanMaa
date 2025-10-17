@@ -2,7 +2,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Johan%20Maulana&fontSize=40&fontAlignY=35&animation=twinkling" width="100%" />
 </div>
 
-<h3 align="center">💻 Teknik Komputer | Universitas Teknologi Digital Indonesia 🎓</h3>
+<h3 align="center"> Teknik Komputer | Universitas Teknologi Digital Indonesia </h3>
 
 <p align="center">
   I'm a Computer Engineering student passionate about Web Development, Mobile App Development, and Cybersecurity. I love building things that matter and solving real-world problems.
