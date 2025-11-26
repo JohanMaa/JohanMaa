@@ -5,7 +5,7 @@
 <h3 align="center"> Teknik Komputer | Universitas Teknologi Digital Indonesia </h3>
 
 <p align="center">
-  I'm a Computer Engineering student passionate about Web Development, Mobile App Development, and Cybersecurity. I love building things that matter and solving real-world problems.
+  I'm a Computer Engineering student passionate about Web Development, Mobile App Development, and Cybersecurity. 
 </p>
 
 <div align="center">
