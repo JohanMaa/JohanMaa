@@ -15,11 +15,6 @@
   </a>
 </div>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=JohanMaa&show_icons=true&theme=radical&border_radius=10&hide_border=true" height="150"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=JohanMaa&theme=radical&border_radius=10&hide_border=true" height="150"/>
-</div>
-
 ---
 
 ## 📊 GitHub Analytics
@@ -35,8 +30,6 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JohanMaa&layout=donut-vertical&theme=radical&border_radius=10&hide_border=true&langs_count=8 " width="48%" />
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=JohanMaa&repo=Portfolio-Website&theme=radical&border_radius=10&hide_border=true " width="48%" />
 </div>
-
-> ℹ️ *Heatmap menunjukkan aktivitas kontribusi 12 bulan terakhir. Pie chart menampilkan persentase penggunaan bahasa berdasarkan volume kode.*
 
 ---
 
