@@ -22,7 +22,7 @@
 
 ---
 
-<h3>🚀 Projects</h3>
+## 🚀 Projects
 
 <div align="center">
 
