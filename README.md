@@ -15,11 +15,6 @@
   </a>
 </div>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=JohanMaa&show_icons=true&theme=radical&border_radius=10&hide_border=true" height="150"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=JohanMaa&theme=radical&border_radius=10&hide_border=true" height="150"/>
-</div>
-
 ---
 
 ## 📊 GitHub Analytics
