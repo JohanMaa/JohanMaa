@@ -95,22 +95,13 @@
 
 ## 📊 GitHub Analytics
 
-> **Bagian ini sudah diperbaiki supaya tidak error / gambar rusak.**
-
 <div align="center">
-
 <img height="160" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=JohanMaa&show_icons=true&theme=radical&hide_border=true&include_all_commits=true" />
-
 <img height="160" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=JohanMaa&layout=compact&theme=radical&hide_border=true&langs_count=8" />
-
 <br/>
-
 <img height="170" src="https://streak-stats.demolab.com?user=JohanMaa&theme=radical&hide_border=true" />
-
 <br/>
-
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=JohanMaa&theme=react-dark&hide_border=true&area=true" width="100%" />
-
 </div>
 
 ---
