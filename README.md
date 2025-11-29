@@ -49,7 +49,7 @@
 
 ## 💡 Skills
 
-### 🧑‍💻 Languages
+### Languages
 <div align="center">
   <img src="https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black " />
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white " />
@@ -59,7 +59,7 @@
   <img src="https://img.shields.io/badge/Bash-121011?style=for-the-badge&logo=gnubash&logoColor=white " />
 </div>
 
-### 🏗️ Frameworks & Libraries
+### Frameworks & Libraries
 <div align="center">
   <img src="https://img.shields.io/badge/React-%2361DAFB.svg?style=for-the-badge&logo=react&logoColor=black " />
   <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white " />
@@ -68,7 +68,7 @@
   <img src="https://img.shields.io/badge/Hive-FFC107?style=for-the-badge&logo=hive&logoColor=black " />
 </div>
 
-### 🗃️ Databases
+### Databases
 <div align="center">
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white " />
   <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white " />
@@ -76,7 +76,7 @@
   <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white " />
 </div>
 
-### ⚙️ DevOps & Tools
+### DevOps & Tools
 <div align="center">
   <img src="https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white " />
   <img src="https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white " />
@@ -87,7 +87,7 @@
   <img src="https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white " />
 </div>
 
-### 🛡️ Security Tools & Platforms
+### Security Tools & Platforms
 <div align="center">
   <img src="https://img.shields.io/badge/Nmap-%2300f.svg?style=for-the-badge&logo=nmap&logoColor=white " />
   <img src="https://img.shields.io/badge/Wireshark-%231679A7.svg?style=for-the-badge&logo=wireshark&logoColor=white " />
