@@ -22,6 +22,28 @@
 
 ---
 
+## 📊 GitHub Analytics
+
+<div align="center">
+  <!-- Stats + Top Lang Compact -->
+  <img src="https://github-readme-stats.vercel.app/api?username=JohanMaa&show_icons=true&theme=radical&border_radius=10&hide_border=true&count_private=true&include_all_commits=true " height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JohanMaa&layout=compact&theme=radical&border_radius=10&hide_border=true&langs_count=6 " height="150" />
+  <br/>
+  <!-- Streak -->
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=JohanMaa&theme=radical&border_radius=10&hide_border=true " height="150" />
+  <br/>
+  <!-- Activity Graph (1-year heatmap) -->
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=JohanMaa&theme=react-dark&hide_border=true&area=true " width="100%" />
+  <br/>
+  <!-- Most Used Languages (Pie Chart) -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JohanMaa&layout=donut-vertical&theme=radical&border_radius=10&hide_border=true&langs_count=8 " width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=JohanMaa&repo=Portfolio-Website&theme=radical&border_radius=10&hide_border=true " width="48%" />
+</div>
+
+> ℹ️ *Heatmap menunjukkan aktivitas kontribusi 12 bulan terakhir. Pie chart menampilkan persentase penggunaan bahasa berdasarkan volume kode.*
+
+---
+
 <h3 align="center">🚀 Projects</h3>
 
 <div align="center">
