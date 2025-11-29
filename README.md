@@ -30,7 +30,7 @@
 
   [![Dashboard Monitoring App](https://github-readme-stats.vercel.app/api/pin/?username=JohanMaa&repo=Monitoring-Kolam-Ikan&theme=radical&border_radius=10&hide_border=true)](https://github.com/JohanMaa/Monitoring-Kolam-Ikan)
   [![Planner App](https://github-readme-stats.vercel.app/api/pin/?username=JohanMaa&repo=Aplikasi_Planner&theme=radical&border_radius=10&hide_border=true)](https://github.com/JohanMaa/Aplikasi_Planner)
-  [![Eco Trash](https://github-readme-stats.vercel.app/api/pin/?username=JohanMaa&repo=Mbanking_Sampah&theme=radical&border_radius=10&hide_border=true)](https://github.com/JohanMaa/Mbanking_Sampah)
+  [![Mbanking_Sampah](https://github-readme-stats.vercel.app/api/pin/?username=JohanMaa&repo=Mbanking_Sampah&theme=radical&border_radius=10&hide_border=true)](https://github.com/JohanMaa/Mbanking_Sampah)
 
   <h4>🔌 CyberSecurity Projects</h4>
 
