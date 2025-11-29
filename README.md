@@ -60,7 +60,7 @@
 </div>
 
 ### Frameworks & Libraries
-<div align="left">
+<div align="">
   <img src="https://img.shields.io/badge/React-%2361DAFB.svg?style=for-the-badge&logo=react&logoColor=black " />
   <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white " />
   <img src="https://img.shields.io/badge/Laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white " />
@@ -69,7 +69,7 @@
 </div>
 
 ### Databases
-<div align="left">
+<div align="">
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white " />
   <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white " />
   <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white " />
@@ -77,7 +77,7 @@
 </div>
 
 ### DevOps & Tools
-<div align="left">
+<div align="">
   <img src="https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white " />
   <img src="https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white " />
   <img src="https://img.shields.io/badge/Docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white " />
@@ -88,7 +88,7 @@
 </div>
 
 ### Security Tools & Platforms
-<div align="left">
+<div align="">
   <img src="https://img.shields.io/badge/Nmap-%2300f.svg?style=for-the-badge&logo=nmap&logoColor=white " />
   <img src="https://img.shields.io/badge/Wireshark-%231679A7.svg?style=for-the-badge&logo=wireshark&logoColor=white " />
   <img src="https://img.shields.io/badge/Burp_Suite-%23FF6F00.svg?style=for-the-badge&logo=burp-suite&logoColor=white " />
