@@ -94,7 +94,7 @@
   <img src="https://img.shields.io/badge/Wireshark-%231679A7.svg?style=for-the-badge&logo=wireshark&logoColor=white " />
   <img src="https://img.shields.io/badge/Burp_Suite-%23FF6F00.svg?style=for-the-badge&logo=burp-suite&logoColor=white " />
   <img src="https://img.shields.io/badge/Metasploit-005377?style=for-the-badge&logo=metasploit&logoColor=white " />
-  <img src="https://img.shields.io/badge/OWASP-005377?style=for-the-badge&logo=owasp&logoColor=white " />
+  <img src="https://img.shields.io/badge/OWASP-000000?style=for-the-badge&logo=owasp&logoColor=white " />
   <br/>
 </div>
 
