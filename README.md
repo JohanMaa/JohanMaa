@@ -2,10 +2,10 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Johan%20Maulana&fontSize=40&fontAlignY=35&animation=twinkling" width="100%" />
 </div>
 
-<h3 align="center">Teknik Komputer | Universitas Teknologi Digital Indonesia</h3>
+<h3 align="center"> Teknik Komputer | Universitas Teknologi Digital Indonesia </h3>
 
 <p align="center">
-  I'm a Computer Engineering student passionate about Web Development, Mobile App Development, and Cybersecurity.
+  I'm a Computer Engineering student passionate about Web Development, Mobile App Development, and Cybersecurity. 
 </p>
 
 <div align="center">
@@ -15,33 +15,25 @@
   </a>
 </div>
 
----
-
-## 📊 GitHub Analytics
-
 <div align="center">
-  <!-- Stats + Top Lang -->
-  <img src="https://github-readme-stats.vercel.app/api?username=JohanMaa&show_icons=true&theme=radical&border_radius=10&hide_border=true&count_private=true&include_all_commits=true" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JohanMaa&layout=compact&theme=radical&border_radius=10&hide_border=true&langs_count=6" height="150" />
-  <br/>
-  <!-- Streak -->
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=JohanMaa&theme=radical&border_radius=10&hide_border=true" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api?username=JohanMaa&show_icons=true&theme=radical&border_radius=10&hide_border=true" height="150"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=JohanMaa&theme=radical&border_radius=10&hide_border=true" height="150"/>
 </div>
 
 ---
 
-## 🚀 Projects
+<h3 align="center">🚀 Projects</h3>
 
 <div align="center">
 
   <h4>💻 Web Development</h4>
 
-  [![Portfolio Website](https://github-readme-stats.vercel.app/api/pin/?username=JohanMaa&repo=Portfolio-Website&theme=radical&border_radius=10&hide_border=true)](https://github.com/JohanMaa/Portfolio-Website)
-  [![E-Commerce App](https://github-readme-stats.vercel.app/api/pin/?username=JohanMaa&repo=Website-Sewa-Alat-Camping&theme=radical&border_radius=10&hide_border=true)](https://github.com/JohanMaa/Website-Sewa-Alat-Camping)
+  [![Web Portfolio](https://github-readme-stats.vercel.app/api/pin/?username=JohanMaa&repo=Portfolio-Website&theme=radical&border_radius=10&hide_border=true)](https://github.com/JohanMaa/Portfolio-Website)
+  [![E-Commerce App](https://github-readme-stats.vercel.app/api/pin/?username=JohanMaa&repo=-Website-Sewa-Alat-Camping&theme=radical&border_radius=10&hide_border=true)](https://github.com/JohanMaa/Website-Sewa-Alat-Camping)
 
   <h4>📱 Mobile Development</h4>
 
-  [![Fishpond Monitoring App](https://github-readme-stats.vercel.app/api/pin/?username=JohanMaa&repo=Monitoring-Kolam-Ikan&theme=radical&border_radius=10&hide_border=true)](https://github.com/JohanMaa/Monitoring-Kolam-Ikan)
+  [![Dashboard Monitoring App](https://github-readme-stats.vercel.app/api/pin/?username=JohanMaa&repo=Monitoring-Kolam-Ikan&theme=radical&border_radius=10&hide_border=true)](https://github.com/JohanMaa/Monitoring-Kolam-Ikan)
   [![Planner App](https://github-readme-stats.vercel.app/api/pin/?username=JohanMaa&repo=Aplikasi_Planner&theme=radical&border_radius=10&hide_border=true)](https://github.com/JohanMaa/Aplikasi_Planner)
   [![Eco Trash](https://github-readme-stats.vercel.app/api/pin/?username=JohanMaa&repo=Mbanking_Sampah&theme=radical&border_radius=10&hide_border=true)](https://github.com/JohanMaa/Mbanking_Sampah)
 
@@ -58,69 +50,63 @@
 ## 🛠️ Tech Stack
 
 ### Languages
-<div align="center">
-  <img src="https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white" />
-  <img src="https://img.shields.io/badge/PHP-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white" />
-  <img src="https://img.shields.io/badge/Bash-121011?style=for-the-badge&logo=gnubash&logoColor=white" />
+<div align="">
+  <img src="https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black " />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white " />
+  <img src="https://img.shields.io/badge/Python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white " />
+  <img src="https://img.shields.io/badge/Dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white " />
+  <img src="https://img.shields.io/badge/PHP-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white " />
+  <img src="https://img.shields.io/badge/Bash-121011?style=for-the-badge&logo=gnubash&logoColor=white " />
 </div>
 
 ### Frameworks & Libraries
-<div align="center">
-  <img src="https://img.shields.io/badge/React-%2361DAFB.svg?style=for-the-badge&logo=react&logoColor=black" />
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/Laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white" />
-  <img src="https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=flutter&logoColor=white" />
-  <img src="https://img.shields.io/badge/Hive-FFC107?style=for-the-badge&logo=hive&logoColor=black" />
+<div align="">
+  <img src="https://img.shields.io/badge/React-%2361DAFB.svg?style=for-the-badge&logo=react&logoColor=black " />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white " />
+  <img src="https://img.shields.io/badge/Laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white " />
+  <img src="https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=flutter&logoColor=white " />
+  <img src="https://img.shields.io/badge/Hive-FFC107?style=for-the-badge&logo=hive&logoColor=black " />
 </div>
 
 ### Databases
-<div align="center">
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" />
-  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
+<div align="">
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white " />
+  <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white " />
+  <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white " />
+  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white " />
 </div>
 
 ### DevOps & Tools
-<div align="center">
-  <img src="https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/Docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/VMware-607078?style=for-the-badge&logo=vmware&logoColor=white" />
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
-  <img src="https://img.shields.io/badge/Terminal-000000?style=for-the-badge&logo=gnubash&logoColor=white" />
-  <img src="https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white" />
+<div align="">
+  <img src="https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white " />
+  <img src="https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white " />
+  <img src="https://img.shields.io/badge/Docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white " />
+  <img src="https://img.shields.io/badge/VMware-607078?style=for-the-badge&logo=vmware&logoColor=white " />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black " />
+  <img src="https://img.shields.io/badge/Terminal-000000?style=for-the-badge&logo=gnubash&logoColor=white " />
+  <img src="https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white " />
 </div>
 
 ### Security Tools & Platforms
-<div align="center">
-  <img src="https://img.shields.io/badge/Nmap-%2300f.svg?style=for-the-badge&logo=nmap&logoColor=white" />
-  <img src="https://img.shields.io/badge/Wireshark-%231679A7.svg?style=for-the-badge&logo=wireshark&logoColor=white" />
-  <img src="https://img.shields.io/badge/Burp_Suite-%23FF6F00.svg?style=for-the-badge&logo=burp-suite&logoColor=white" />
-  <img src="https://img.shields.io/badge/Metasploit-005377?style=for-the-badge&logo=metasploit&logoColor=white" />
-  <img src="https://img.shields.io/badge/OWASP-000000?style=for-the-badge&logo=owasp&logoColor=white" />
-  <img src="https://img.shields.io/badge/Wazuh-7E5BEF?style=for-the-badge&logo=wazuh&logoColor=white" />
+<div align="">
+  <img src="https://img.shields.io/badge/Nmap-%2300f.svg?style=for-the-badge&logo=nmap&logoColor=white " />
+  <img src="https://img.shields.io/badge/Wireshark-%231679A7.svg?style=for-the-badge&logo=wireshark&logoColor=white " />
+  <img src="https://img.shields.io/badge/Burp_Suite-%23FF6F00.svg?style=for-the-badge&logo=burp-suite&logoColor=white " />
+  <img src="https://img.shields.io/badge/Metasploit-005377?style=for-the-badge&logo=metasploit&logoColor=white " />
+  <img src="https://img.shields.io/badge/OWASP-000000?style=for-the-badge&logo=owasp&logoColor=white " />
   <br/>
-  <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white" />
-  <img src="https://img.shields.io/badge/Parrot_OS-1f2c3a?style=for-the-badge&logo=parrot-security&logoColor=05c7f2" />
-  <br/>
-  <img src="https://img.shields.io/badge/TryHackMe-%23212C42.svg?style=for-the-badge&logo=tryhackme&logoColor=white" />
-  <img src="https://img.shields.io/badge/Hack_The_Box-111927?style=for-the-badge&logo=hackthebox&logoColor=green" />
-  <img src="https://img.shields.io/badge/OverTheWire-%23f60.svg?style=for-the-badge&logo=archlinux&logoColor=white" />
 </div>
+
 
 ---
 
-## 📫 Let's Connect
+<h3 align="center">📫 Let's Connect</h3>
 
 <p align="center">
   <a href="mailto:johansendup@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://www.linkedin.com/in/johan-maulana-26b051305/">
+  <a href="https://www.linkedin.com/in/johan-maulana-26b051305/"> 
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://www.hannz.my.id/">
