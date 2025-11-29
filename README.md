@@ -24,7 +24,6 @@
   <h4>💻 Web Development</h4>
   
   [![Portfolio Website](https://github-readme-stats.vercel.app/api/pin/?username=JohanMaa&repo=Portfolio-Website&theme=radical&border_radius=10&hide_border=true)](https://github.com/JohanMaa/Portfolio-Website)
-  
   [![E-Commerce App](https://github-readme-stats.vercel.app/api/pin/?username=JohanMaa&repo=-Website-Sewa-Alat-Camping&theme=radical&border_radius=10&hide_border=true)](https://github.com/JohanMaa/-Website-Sewa-Alat-Camping)
 
   <h4>📱 Mobile Development</h4>
@@ -100,11 +99,8 @@
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=JohanMaa&show_icons=true&theme=radical&border_radius=10&hide_border=true&count_private=true&include_all_commits=true" height="150" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JohanMaa&layout=compact&theme=radical&border_radius=10&hide_border=true&langs_count=6" height="150" />
-  <br/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=JohanMaa&theme=radical&border_radius=10&hide_border=true" height="150" />
-  <br/>
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=JohanMaa&theme=react-dark&hide_border=true&area=true" width="100%" />
-  <br/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JohanMaa&layout=donut-vertical&theme=radical&border_radius=10&hide_border=true&langs_count=8" width="48%" />
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=JohanMaa&repo=Portfolio-Website&theme=radical&border_radius=10&hide_border=true" width="48%" />
 </div>
