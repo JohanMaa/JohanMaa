@@ -47,7 +47,7 @@
 
 ---
 
-## 💡 Skills
+## 🛠️ Tech Stack
 
 ### Languages
 <div align="">
