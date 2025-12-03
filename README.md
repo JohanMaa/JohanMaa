@@ -19,7 +19,7 @@
 
 ## 👤 About Me
 
-<div align="center">
+<div>
   <p>
     I am a technology enthusiast with strong interest in <b>Web Development</b>, <b>Mobile Application Development</b>, and <b>Cybersecurity</b>.
     I enjoy building digital products, solving problems, and continuously learning new technologies.
