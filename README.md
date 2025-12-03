@@ -25,11 +25,8 @@
     I enjoy building digital products, solving problems, and continuously learning new technologies.
   </p>
 
-  <p>
-    Currently, I am focusing on improving my skills in:
-  </p>
-
   <ul align="left">
+    🔎 Currently exploring Security Operations & Threat Analysis  
     <li>Fullstack Web Development (React, Next.js, Laravel)</li>
     <li>Mobile Development using Flutter</li>
     <li>Cybersecurity fundamentals & ethical hacking tools</li>
