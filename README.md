@@ -27,10 +27,7 @@
 
   <ul align="left">
     <li>🔎 Currently exploring Security Operations & Threat Analysis</li>  
-    <li>Fullstack Web Development (React, Next.js, Laravel)</li>
-    <li>Mobile Development using Flutter</li>
-    <li>Cybersecurity fundamentals & ethical hacking tools</li>
-    <li>DevOps tools and cloud-based workflows</li>
+    
   </ul>
 
   <p>
