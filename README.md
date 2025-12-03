@@ -29,10 +29,6 @@
     <li>🔎 Currently exploring Security Operations & Threat Analysis</li>  
     
   </ul>
-
-  <p>
-    I aim to become a versatile engineer capable of developing secure and scalable applications across multiple platforms.
-  </p>
 </div>
 
 ---
