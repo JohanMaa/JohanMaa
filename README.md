@@ -26,7 +26,7 @@
   </p>
 
   <ul align="left">
-    🔎 Currently exploring Security Operations & Threat Analysis  
+    <li>🔎 Currently exploring Security Operations & Threat Analysis</li>  
     <li>Fullstack Web Development (React, Next.js, Laravel)</li>
     <li>Mobile Development using Flutter</li>
     <li>Cybersecurity fundamentals & ethical hacking tools</li>
