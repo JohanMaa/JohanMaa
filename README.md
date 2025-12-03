@@ -17,27 +17,28 @@
 
 ---
 
-## 🚀 Projects
+## 👤 About Me
 
 <div align="center">
+  <p>
+    I am a technology enthusiast with strong interest in <b>Web Development</b>, <b>Mobile Application Development</b>, and <b>Cybersecurity</b>.
+    I enjoy building digital products, solving problems, and continuously learning new technologies.
+  </p>
 
-  <h4>💻 Web Development</h4>
-  
-  [![Portfolio Website](https://github-readme-stats.vercel.app/api/pin/?username=JohanMaa&repo=Portfolio-Website&theme=radical&border_radius=10&hide_border=true)](https://github.com/JohanMaa/Portfolio-Website)
-  [![E-Commerce App](https://github-readme-stats.vercel.app/api/pin/?username=JohanMaa&repo=-Website-Sewa-Alat-Camping&theme=radical&border_radius=10&hide_border=true)](https://github.com/JohanMaa/-Website-Sewa-Alat-Camping)
+  <p>
+    Currently, I am focusing on improving my skills in:
+  </p>
 
-  <h4>📱 Mobile Development</h4>
+  <ul align="left">
+    <li>Fullstack Web Development (React, Next.js, Laravel)</li>
+    <li>Mobile Development using Flutter</li>
+    <li>Cybersecurity fundamentals & ethical hacking tools</li>
+    <li>DevOps tools and cloud-based workflows</li>
+  </ul>
 
-  [![Dashboard Monitoring App](https://github-readme-stats.vercel.app/api/pin/?username=JohanMaa&repo=Monitoring-Kolam-Ikan&theme=radical&border_radius=10&hide_border=true)](https://github.com/JohanMaa/Monitoring-Kolam-Ikan)
-  [![Planner App](https://github-readme-stats.vercel.app/api/pin/?username=JohanMaa&repo=Aplikasi_Planner&theme=radical&border_radius=10&hide_border=true)](https://github.com/JohanMaa/Aplikasi_Planner)
-  [![Mbanking_Sampah](https://github-readme-stats.vercel.app/api/pin/?username=JohanMaa&repo=Mbanking_Sampah&theme=radical&border_radius=10&hide_border=true)](https://github.com/JohanMaa/Mbanking_Sampah)
-
-  <h4>🔌 CyberSecurity Projects</h4>
-
-  [![Password Cracker](https://github-readme-stats.vercel.app/api/pin/?username=JohanMaa&repo=Password-Cracker&theme=radical&border_radius=10&hide_border=true)](https://github.com/JohanMaa/Password-Cracker)
-
-  🔗 [View Other CyberSecurity Projects on Website](https://www.hannz.my.id/)
-
+  <p>
+    I aim to become a versatile engineer capable of developing secure and scalable applications across multiple platforms.
+  </p>
 </div>
 
 ---
