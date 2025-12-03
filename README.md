@@ -26,8 +26,9 @@
   </p>
 
   <ul align="left">
-    <li>🔎 Currently exploring Security Operations & Threat Analysis</li>  
-    
+    <li> Currently exploring Security Operations & Threat Analysis</li>
+    <li> Slowly building my personal security knowledge base  </li>
+    <li> Experimenting with simple labs </li>
   </ul>
 </div>
 
