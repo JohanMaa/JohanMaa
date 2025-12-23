@@ -96,8 +96,6 @@
   <br/>
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=JohanMaa&theme=react-dark&hide_border=true&area=true" width="100%" />
   <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JohanMaa&layout=donut-vertical&theme=radical&border_radius=10&hide_border=true&langs_count=8" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=JohanMaa&repo=Portfolio-Website&theme=radical&border_radius=10&hide_border=true" width="48%" />
 </div>
 
 ---
